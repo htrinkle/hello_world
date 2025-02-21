@@ -1,3 +1,3 @@
 # hello_world
 
-Really simple pythonflask "Hello World" web-app
+Really simple python-flask "Hello World" web-app
